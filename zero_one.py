@@ -6,7 +6,7 @@ import sys
 import copy
 import time
 
-pre: float
+pre = float
 
 
 def gen_desk(m, n):
